@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Ephraim Doherty
+# Hi there 👋, I'm Ephraim I Doherty
 
-Software Engineer | Mathematics Student | Technology Innovator
+Software Developer | IT Trainer | IT Project Manager
 
-I am a Liberian software engineer and mathematics student passionate about building scalable digital systems that solve real-world problems in Africa. My work focuses on software architecture, backend development, and data-driven platforms.
+I am a Liberian software engineer and am passionate about building scalable digital systems that solve real-world problems in Liberia and accross the globe. I focus on software architecture, front-end and back-end development, and data-driven platforms.
 
 ## 👀 Interests
 - Software Engineering
@@ -39,4 +39,4 @@ I am open to collaborating on:
 - WhatsApp: +231 770 964 566
 
 ---
-*"Building technology solutions that empower people and systems across Africa."*
+*"Building technology solutions that empower people and systems across the world."*
